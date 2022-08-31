@@ -1,0 +1,7 @@
+*.dblite
+*.dcf
+*.map
+*.lst
+*.pyc
+*.old
+*.o
